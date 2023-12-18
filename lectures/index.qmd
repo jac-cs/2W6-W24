@@ -1,0 +1,7 @@
+---
+title: "Lectures"
+listing:
+  contents: lectures
+---
+
+Lectures posted throughout the semester

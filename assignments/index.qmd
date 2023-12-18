@@ -1,0 +1,7 @@
+---
+title: "Assignments"
+listing:
+  contents: assignments
+---
+
+Assignments posted throughout the semester

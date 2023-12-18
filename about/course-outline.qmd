@@ -1,0 +1,9 @@
+---
+title: Course Outline
+date: last-modified
+toc: true
+format: 
+  html: default
+---
+
+Text

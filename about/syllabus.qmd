@@ -1,0 +1,9 @@
+---
+title: Syllabus
+date: last-modified
+toc: true
+format: 
+  html: default
+---
+
+Text
