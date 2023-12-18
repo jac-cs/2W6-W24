@@ -1,5 +1,17 @@
 [
   {
+    "listing": "/lectures/index.html",
+    "items": []
+  },
+  {
+    "listing": "/tutorials/index.html",
+    "items": []
+  },
+  {
+    "listing": "/assignments/index.html",
+    "items": []
+  },
+  {
     "listing": "/about/index.html",
     "items": [
       "/about/course-links.html",
@@ -10,19 +22,7 @@
     ]
   },
   {
-    "listing": "/assignments/index.html",
-    "items": []
-  },
-  {
-    "listing": "/lectures/index.html",
-    "items": []
-  },
-  {
     "listing": "/reference/index.html",
-    "items": []
-  },
-  {
-    "listing": "/tutorials/index.html",
     "items": []
   }
 ]
