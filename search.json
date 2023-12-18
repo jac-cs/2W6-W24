@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "tutorials/welcome.html",
+    "href": "tutorials/welcome.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "reference/welcome.html",
+    "href": "reference/welcome.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "lectures/welcome.html",
+    "href": "lectures/welcome.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Docs",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/a1.html",
+    "href": "assignments/a1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Adapted from https://github.com/grantmcdermott/quarto-revealjs-clean/blob/main/template.qmd"
+  },
+  {
+    "objectID": "assignments/a1.html#example-slide",
+    "href": "assignments/a1.html#example-slide",
+    "title": "Assignment 1",
+    "section": "1 Example slide",
+    "text": "1 Example slide\n\n1.1 This is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+  },
+  {
+    "objectID": "assignments/a1.html#additional-theme-classes",
+    "href": "assignments/a1.html#additional-theme-classes",
+    "title": "Assignment 1",
+    "section": "2 Additional theme classes",
+    "text": "2 Additional theme classes\n\n2.1 Some extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+  },
+  {
+    "objectID": "assignments/a1.html#want-more",
+    "href": "assignments/a1.html#want-more",
+    "title": "Assignment 1",
+    "section": "3 Want more?",
+    "text": "3 Want more?\n\n3.1 See our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+  },
+  {
+    "objectID": "assignments/a1.html#sec-summary",
+    "href": "assignments/a1.html#sec-summary",
+    "title": "Assignment 1",
+    "section": "4 Summary",
+    "text": "4 Summary\n\n4.1 A minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+  },
+  {
+    "objectID": "assignments/a1-slides.html#example-slide",
+    "href": "assignments/a1-slides.html#example-slide",
+    "title": "Assignment 1",
+    "section": "Example slide",
+    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+  },
+  {
+    "objectID": "assignments/a1-slides.html#additional-theme-classes",
+    "href": "assignments/a1-slides.html#additional-theme-classes",
+    "title": "Assignment 1",
+    "section": "Additional theme classes",
+    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+  },
+  {
+    "objectID": "assignments/a1-slides.html#want-more",
+    "href": "assignments/a1-slides.html#want-more",
+    "title": "Assignment 1",
+    "section": "Want more?",
+    "text": "Want more?\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+  },
+  {
+    "objectID": "assignments/a1-slides.html#sec-summary",
+    "href": "assignments/a1-slides.html#sec-summary",
+    "title": "Assignment 1",
+    "section": "Summary",
+    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n\n\n\n\n\n  \n\n\n\n\nCalendar\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nColophon\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nCourse Outline\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nUseful links\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "about/course-links.html",
+    "href": "about/course-links.html",
+    "title": "Calendar",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/calendar.html",
+    "href": "about/calendar.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/colophon.html",
+    "href": "about/colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/course-outline.html",
+    "href": "about/course-outline.html",
+    "title": "Course Outline",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/syllabus.html",
+    "href": "about/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Assignments posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Lectures posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Reference",
+    "section": "",
+    "text": "Reference posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Tutorials posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  }
+]

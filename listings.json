@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/about/index.html",
+    "items": [
+      "/about/course-links.html",
+      "/about/colophon.html",
+      "/about/course-outline.html",
+      "/about/syllabus.html",
+      "/about/calendar.html"
+    ]
+  },
+  {
+    "listing": "/assignments/index.html",
+    "items": []
+  },
+  {
+    "listing": "/lectures/index.html",
+    "items": []
+  },
+  {
+    "listing": "/reference/index.html",
+    "items": []
+  },
+  {
+    "listing": "/tutorials/index.html",
+    "items": []
+  }
+]
