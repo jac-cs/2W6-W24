@@ -9,7 +9,7 @@ format:
   pdf: default
   docx: default
   clean-revealjs: 
-    output-file: html-fundamentals-slides.html
+    output-ext: dhtml
 format-links: [html, pdf, clean-revealjs]
 ---
 
