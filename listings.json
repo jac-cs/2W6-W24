@@ -1,11 +1,22 @@
 [
   {
     "listing": "/lectures/index.html",
-    "items": []
-  },
-  {
-    "listing": "/tutorials/index.html",
-    "items": []
+    "items": [
+      "/lectures/accessible-design.html",
+      "/lectures/css-fundamentals.html",
+      "/lectures/grid.html",
+      "/lectures/cascade.html",
+      "/lectures/color.html",
+      "/lectures/dev-tools.html",
+      "/lectures/flexbox.html",
+      "/lectures/forms.html",
+      "/lectures/html-fundamentals.html",
+      "/lectures/media.html",
+      "/lectures/js-fundamentals.html",
+      "/lectures/responsive-design.html",
+      "/lectures/typography.html",
+      "/lectures/vs-code.html"
+    ]
   },
   {
     "listing": "/assignments/index.html",
@@ -14,15 +25,19 @@
   {
     "listing": "/about/index.html",
     "items": [
-      "/about/course-links.html",
       "/about/colophon.html",
       "/about/course-outline.html",
+      "/about/calendar.html",
       "/about/syllabus.html",
-      "/about/calendar.html"
+      "/about/course-links.html"
     ]
   },
   {
     "listing": "/reference/index.html",
+    "items": []
+  },
+  {
+    "listing": "/tutorials/index.html",
     "items": []
   }
 ]

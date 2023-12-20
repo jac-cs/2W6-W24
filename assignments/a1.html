@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2023-12-18">
+<meta name="dcterms.date" content="2023-12-20">
 
 <title>User Interfaces - Assignment 1</title>
 <style>
@@ -21,40 +21,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -65,7 +31,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../tutorials/index.html" rel="next">
+<link href="../lectures/index.html" rel="next">
 <link href="../assignments/index.html" rel="prev">
 <link href="../favicon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
@@ -173,8 +139,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../reference/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Reference</span></a>
+            <a href="../about/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -182,25 +148,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../reference/welcome.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Sample Page</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a href="../about/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="../about/calendar.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Useful links</span></a>
+ <span class="menu-text">Schedule</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -212,7 +161,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../about/course-links.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Calendar</span></a>
+ <span class="menu-text">Useful Links</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -233,11 +182,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div class="sidebar-item-container"> 
             <a href="../assignments/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Assignments</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../assignments/a1.html" class="sidebar-item-text sidebar-link active">
@@ -248,8 +197,103 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../tutorials/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Tutorials</span></a>
+            <a href="../lectures/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lectures</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/accessible-design.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Accessible Design</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/cascade.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cascade</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/color.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Color and Theme</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/css-fundamentals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">CSS Fundamentals</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/dev-tools.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Developer Tools</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/flexbox.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Flexbox</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/forms.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Forms</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/grid.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">CSS Grid</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/html-fundamentals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">HTML Fundamentals</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/js-fundamentals.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Javascript Fundamentals</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/media.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Images and Media</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/responsive-design.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Responsive Design</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/typography.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Typography</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../lectures/vs-code.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">VSCode tips and tricks</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="../reference/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Reference</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -257,7 +301,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../tutorials/welcome.html" class="sidebar-item-text sidebar-link">
+  <a href="../reference/welcome.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sample Page</span></a>
   </div>
 </li>
@@ -265,8 +309,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../lectures/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Lectures</span></a>
+            <a href="../tutorials/index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Tutorials</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -274,7 +318,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../lectures/welcome.html" class="sidebar-item-text sidebar-link">
+  <a href="../tutorials/welcome.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Sample Page</span></a>
   </div>
 </li>
@@ -286,29 +330,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#example-slide" id="toc-example-slide" class="nav-link active" data-scroll-target="#example-slide"><span class="header-section-number">1</span> Example slide</a>
-  <ul class="collapse">
-  <li><a href="#this-is-a-subtitle" id="toc-this-is-a-subtitle" class="nav-link" data-scroll-target="#this-is-a-subtitle"><span class="header-section-number">1.1</span> This is a subtitle</a></li>
-  </ul></li>
-  <li><a href="#additional-theme-classes" id="toc-additional-theme-classes" class="nav-link" data-scroll-target="#additional-theme-classes"><span class="header-section-number">2</span> Additional theme classes</a>
-  <ul class="collapse">
-  <li><a href="#some-extra-things-you-can-do-with-the-clean-theme" id="toc-some-extra-things-you-can-do-with-the-clean-theme" class="nav-link" data-scroll-target="#some-extra-things-you-can-do-with-the-clean-theme"><span class="header-section-number">2.1</span> Some extra things you can do with the clean theme</a></li>
-  </ul></li>
-  <li><a href="#want-more" id="toc-want-more" class="nav-link" data-scroll-target="#want-more"><span class="header-section-number">3</span> Want more?</a>
-  <ul class="collapse">
-  <li><a href="#see-our-longer-demo-slides" id="toc-see-our-longer-demo-slides" class="nav-link" data-scroll-target="#see-our-longer-demo-slides"><span class="header-section-number">3.1</span> See our longer demo slides</a></li>
-  </ul></li>
-  <li><a href="#sec-summary" id="toc-sec-summary" class="nav-link" data-scroll-target="#sec-summary"><span class="header-section-number">4</span> Summary</a>
-  <ul class="collapse">
-  <li><a href="#a-minimal-and-elegant-presentation-theme" id="toc-a-minimal-and-elegant-presentation-theme" class="nav-link" data-scroll-target="#a-minimal-and-elegant-presentation-theme"><span class="header-section-number">4.1</span> A minimal and elegant presentation theme</a></li>
-  </ul></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="a1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="a1-slides.html"><i class="bi bi-file-slides"></i>RevealJS (clean)</a></li></ul></div></nav>
-    </div>
+        
+    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="a1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="a1.dhtml"><i class="bi bi-file-slides"></i>RevealJS (clean)</a></li></ul></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -326,7 +349,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 18, 2023</p>
+      <p class="date">December 20, 2023</p>
     </div>
   </div>
   
@@ -336,66 +359,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<p><em>Adapted from https://github.com/grantmcdermott/quarto-revealjs-clean/blob/main/template.qmd</em></p>
-<section id="example-slide" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="example-slide"><span class="header-section-number">1</span> Example slide</h2>
-<section id="this-is-a-subtitle" class="level3" data-number="1.1">
-<h3 data-number="1.1" class="anchored" data-anchor-id="this-is-a-subtitle"><span class="header-section-number">1.1</span> This is a subtitle</h3>
-<p>Here we have some text that may run over several lines of the slide frame, depending on how long it is.</p>
-<ul>
-<li>first item
-<ul>
-<li>A sub item</li>
-</ul></li>
-</ul>
-<p>Next, we’ll brief review some theme-specific components.</p>
-<ul>
-<li>Note that <em>all</em> of the standard Reveal.js <a href="https://quarto.org/docs/presentations/revealjs/">features</a> can be used with this theme, even if we don’t highlight them here.</li>
-</ul>
-</section>
-</section>
-<section id="additional-theme-classes" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="additional-theme-classes"><span class="header-section-number">2</span> Additional theme classes</h2>
-<section id="some-extra-things-you-can-do-with-the-clean-theme" class="level3" data-number="2.1">
-<h3 data-number="2.1" class="anchored" data-anchor-id="some-extra-things-you-can-do-with-the-clean-theme"><span class="header-section-number">2.1</span> Some extra things you can do with the clean theme</h3>
-<p>Special classes for emphasis</p>
-<ul>
-<li><code>.alert</code> class for default emphasis, e.g.&nbsp;<span class="alert">important note</span>.</li>
-<li><code>.fg</code> class for custom colour, e.g.&nbsp;<span class="fg" style="--col: #e64173">important note</span>.</li>
-<li><code>.bg</code> class for custom background, e.g.&nbsp;<span class="bg" style="--col: #e64173">important note</span>.</li>
-</ul>
-<p>Cross-references</p>
-<ul>
-<li><code>.button</code> class provides a Beamer-like button, e.g. <a href="#sec-summary"><span class="button">Summary</span></a></li>
-</ul>
-</section>
-</section>
-<section id="want-more" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="want-more"><span class="header-section-number">3</span> Want more?</h2>
-<section id="see-our-longer-demo-slides" class="level3" data-number="3.1">
-<h3 data-number="3.1" class="anchored" data-anchor-id="see-our-longer-demo-slides"><span class="header-section-number">3.1</span> See our longer demo slides</h3>
-<p>We’ve deliberarely kept this template lean, to get you up and running as fast as possible.</p>
-<p>We provide a separate <a href="https://github.com/grantmcdermott/quarto-revealjs-clean-demo">demo template</a>, with more examples for integrating code, tables, figures, etc.</p>
-<ul>
-<li>See the live demo slides <a href="https://grantmcdermott.com/quarto-revealjs-clean-demo/template.html">here</a>.</li>
-</ul>
-</section>
-</section>
-<section id="sec-summary" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="sec-summary"><span class="header-section-number">4</span> Summary</h2>
-<section id="a-minimal-and-elegant-presentation-theme" class="level3" data-number="4.1">
-<h3 data-number="4.1" class="anchored" data-anchor-id="a-minimal-and-elegant-presentation-theme"><span class="header-section-number">4.1</span> A minimal and elegant presentation theme</h3>
-<p>The Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.</p>
-<p>Install the theme.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> install extension grantmcdermott/quarto-revealjs-clean</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Use this lean template.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> use template grantmcdermott/quarto-revealjs-clean</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Use the longer demo template.</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> use template grantmcdermott/quarto-revealjs-clean-demo</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
-</section>
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -753,8 +718,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../tutorials/index.html" class="pagination-link">
-        <span class="nav-page-text">Tutorials</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../lectures/index.html" class="pagination-link">
+        <span class="nav-page-text">Lectures</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

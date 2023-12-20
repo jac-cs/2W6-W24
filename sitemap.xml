@@ -1,67 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/lectures/index.html</loc>
-    <lastmod>2023-12-18T21:37:35.624Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/tutorials/welcome.html</loc>
+    <lastmod>2023-12-20T22:04:13.399Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/tutorials/index.html</loc>
-    <lastmod>2023-12-18T21:37:35.044Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/reference/welcome.html</loc>
+    <lastmod>2023-12-20T22:04:12.626Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/assignments/index.html</loc>
-    <lastmod>2023-12-18T21:37:29.368Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/vs-code.html</loc>
+    <lastmod>2023-12-20T22:04:11.862Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/course-links.html</loc>
-    <lastmod>2023-12-18T21:37:28.796Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/vs-code.dhtml</loc>
+    <lastmod>2023-12-20T22:04:06.553Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/syllabus.html</loc>
-    <lastmod>2023-12-18T21:37:28.232Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/accessible-design.html</loc>
+    <lastmod>2023-12-20T22:03:59.180Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/index.html</loc>
-    <lastmod>2023-12-18T21:37:27.640Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/accessible-design.dhtml</loc>
+    <lastmod>2023-12-20T22:03:51.319Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/reference/welcome.html</loc>
-    <lastmod>2023-12-18T21:37:26.892Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/forms.html</loc>
+    <lastmod>2023-12-20T22:03:41.203Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/reference/index.html</loc>
-    <lastmod>2023-12-18T21:37:25.960Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/forms.dhtml</loc>
+    <lastmod>2023-12-20T22:03:35.944Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/calendar.html</loc>
-    <lastmod>2023-12-18T21:37:27.180Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/media.html</loc>
+    <lastmod>2023-12-20T22:03:28.464Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/colophon.html</loc>
-    <lastmod>2023-12-18T21:37:27.948Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/media.dhtml</loc>
+    <lastmod>2023-12-20T22:03:23.086Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/about/course-outline.html</loc>
-    <lastmod>2023-12-18T21:37:28.520Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/html-fundamentals.html</loc>
+    <lastmod>2023-12-20T22:03:15.728Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/index.html</loc>
-    <lastmod>2023-12-18T21:37:29.076Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/html-fundamentals.dhtml</loc>
+    <lastmod>2023-12-20T22:03:10.420Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/assignments/a1-slides.html</loc>
-    <lastmod>2023-12-18T21:37:30.540Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/js-fundamentals.html</loc>
+    <lastmod>2023-12-20T22:03:00.291Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/assignments/a1.html</loc>
-    <lastmod>2023-12-18T21:37:34.184Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/js-fundamentals.dhtml</loc>
+    <lastmod>2023-12-20T22:02:55.066Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/tutorials/welcome.html</loc>
-    <lastmod>2023-12-18T21:37:35.332Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/grid.html</loc>
+    <lastmod>2023-12-20T22:02:47.738Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/jac-cs/2W6-W24/lectures/welcome.html</loc>
-    <lastmod>2023-12-18T21:37:35.912Z</lastmod>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/grid.dhtml</loc>
+    <lastmod>2023-12-20T22:02:42.439Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/index.html</loc>
+    <lastmod>2023-12-20T22:02:35.133Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/assignments/index.html</loc>
+    <lastmod>2023-12-20T22:02:33.580Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/syllabus.html</loc>
+    <lastmod>2023-12-20T22:02:26.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/course-outline.html</loc>
+    <lastmod>2023-12-20T22:02:19.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/colophon.html</loc>
+    <lastmod>2023-12-20T22:02:18.848Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/calendar.html</loc>
+    <lastmod>2023-12-20T22:02:18.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/course-links.html</loc>
+    <lastmod>2023-12-20T22:02:19.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/about/index.html</loc>
+    <lastmod>2023-12-20T22:02:20.248Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/assignments/a1.dhtml</loc>
+    <lastmod>2023-12-20T22:02:27.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/assignments/a1.html</loc>
+    <lastmod>2023-12-20T22:02:33.142Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/index.html</loc>
+    <lastmod>2023-12-20T22:02:33.952Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/typography.dhtml</loc>
+    <lastmod>2023-12-20T22:02:36.190Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/typography.html</loc>
+    <lastmod>2023-12-20T22:02:41.397Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/flexbox.dhtml</loc>
+    <lastmod>2023-12-20T22:02:48.814Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/flexbox.html</loc>
+    <lastmod>2023-12-20T22:02:54.028Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/css-fundamentals.dhtml</loc>
+    <lastmod>2023-12-20T22:03:01.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/css-fundamentals.html</loc>
+    <lastmod>2023-12-20T22:03:09.335Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/cascade.dhtml</loc>
+    <lastmod>2023-12-20T22:03:16.750Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/cascade.html</loc>
+    <lastmod>2023-12-20T22:03:22.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/responsive-design.dhtml</loc>
+    <lastmod>2023-12-20T22:03:29.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/responsive-design.html</loc>
+    <lastmod>2023-12-20T22:03:34.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/dev-tools.dhtml</loc>
+    <lastmod>2023-12-20T22:03:42.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/dev-tools.html</loc>
+    <lastmod>2023-12-20T22:03:50.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/color.dhtml</loc>
+    <lastmod>2023-12-20T22:04:00.228Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/lectures/color.html</loc>
+    <lastmod>2023-12-20T22:04:05.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/reference/index.html</loc>
+    <lastmod>2023-12-20T22:04:12.239Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jac-cs.github.io/2W6-W24/tutorials/index.html</loc>
+    <lastmod>2023-12-20T22:04:13.005Z</lastmod>
   </url>
 </urlset>

@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "lectures/index.html",
-    "href": "lectures/index.html",
-    "title": "Lectures",
-    "section": "",
-    "text": "Lectures posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "tutorials/index.html",
-    "href": "tutorials/index.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Tutorials posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "Assignments posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "about/course-links.html",
-    "href": "about/course-links.html",
-    "title": "Calendar",
+    "objectID": "tutorials/welcome.html",
+    "href": "tutorials/welcome.html",
+    "title": "Sample Page",
     "section": "",
     "text": "Text\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/syllabus.html",
-    "href": "about/syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n\n\n\n\n\n\n  \n\n\n\n\nCalendar\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nColophon\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nCourse Outline\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nUseful links\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "reference/welcome.html",
@@ -49,16 +14,443 @@
     "text": "Text\n\n\n\n Back to top"
   },
   {
-    "objectID": "reference/index.html",
-    "href": "reference/index.html",
-    "title": "Reference",
-    "section": "",
-    "text": "Reference posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "objectID": "lectures/vs-code.html#plugins",
+    "href": "lectures/vs-code.html#plugins",
+    "title": "VSCode tips and tricks",
+    "section": "2 Plugins",
+    "text": "2 Plugins\n\n2.1 Live server"
   },
   {
-    "objectID": "about/calendar.html",
-    "href": "about/calendar.html",
-    "title": "Useful links",
+    "objectID": "lectures/vs-code.html#emmet",
+    "href": "lectures/vs-code.html#emmet",
+    "title": "VSCode tips and tricks",
+    "section": "3 Emmet",
+    "text": "3 Emmet\n\n3.1 Technique 1\n\n\n3.2 Technique 2"
+  },
+  {
+    "objectID": "lectures/vs-code.html#summary",
+    "href": "lectures/vs-code.html#summary",
+    "title": "VSCode tips and tricks",
+    "section": "4 Summary",
+    "text": "4 Summary"
+  },
+  {
+    "objectID": "lectures/vs-code.dhtml#overview",
+    "href": "lectures/vs-code.dhtml#overview",
+    "title": "VSCode tips and tricks",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/vs-code.dhtml#plugins",
+    "href": "lectures/vs-code.dhtml#plugins",
+    "title": "VSCode tips and tricks",
+    "section": "Plugins",
+    "text": "Plugins\nLive server"
+  },
+  {
+    "objectID": "lectures/vs-code.dhtml#emmet",
+    "href": "lectures/vs-code.dhtml#emmet",
+    "title": "VSCode tips and tricks",
+    "section": "Emmet",
+    "text": "Emmet\nTechnique 1\nTechnique 2"
+  },
+  {
+    "objectID": "lectures/vs-code.dhtml#summary",
+    "href": "lectures/vs-code.dhtml#summary",
+    "title": "VSCode tips and tricks",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#introduction-to-web-accessibility",
+    "href": "lectures/accessible-design.html#introduction-to-web-accessibility",
+    "title": "Accessible Design",
+    "section": "2 Introduction to Web Accessibility",
+    "text": "2 Introduction to Web Accessibility"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#the-web-content-accessibility-guidelines-wcag",
+    "href": "lectures/accessible-design.html#the-web-content-accessibility-guidelines-wcag",
+    "title": "Accessible Design",
+    "section": "3 The Web Content Accessibility Guidelines (WCAG)",
+    "text": "3 The Web Content Accessibility Guidelines (WCAG)"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#semantic-html",
+    "href": "lectures/accessible-design.html#semantic-html",
+    "title": "Accessible Design",
+    "section": "4 Semantic HTML",
+    "text": "4 Semantic HTML"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#accessible-colors",
+    "href": "lectures/accessible-design.html#accessible-colors",
+    "title": "Accessible Design",
+    "section": "5 Accessible Colors",
+    "text": "5 Accessible Colors"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#keyboard-navigation",
+    "href": "lectures/accessible-design.html#keyboard-navigation",
+    "title": "Accessible Design",
+    "section": "6 Keyboard Navigation",
+    "text": "6 Keyboard Navigation"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#meaningful-text",
+    "href": "lectures/accessible-design.html#meaningful-text",
+    "title": "Accessible Design",
+    "section": "7 Meaningful Text",
+    "text": "7 Meaningful Text"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#wai-aria",
+    "href": "lectures/accessible-design.html#wai-aria",
+    "title": "Accessible Design",
+    "section": "8 WAI-ARIA",
+    "text": "8 WAI-ARIA"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#accessibility-auditing",
+    "href": "lectures/accessible-design.html#accessibility-auditing",
+    "title": "Accessible Design",
+    "section": "9 Accessibility Auditing",
+    "text": "9 Accessibility Auditing"
+  },
+  {
+    "objectID": "lectures/accessible-design.html#summary",
+    "href": "lectures/accessible-design.html#summary",
+    "title": "Accessible Design",
+    "section": "10 Summary",
+    "text": "10 Summary"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#overview",
+    "href": "lectures/accessible-design.dhtml#overview",
+    "title": "Accessible Design",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#introduction-to-web-accessibility",
+    "href": "lectures/accessible-design.dhtml#introduction-to-web-accessibility",
+    "title": "Accessible Design",
+    "section": "Introduction to Web Accessibility",
+    "text": "Introduction to Web Accessibility"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#the-web-content-accessibility-guidelines-wcag",
+    "href": "lectures/accessible-design.dhtml#the-web-content-accessibility-guidelines-wcag",
+    "title": "Accessible Design",
+    "section": "The Web Content Accessibility Guidelines (WCAG)",
+    "text": "The Web Content Accessibility Guidelines (WCAG)"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#semantic-html",
+    "href": "lectures/accessible-design.dhtml#semantic-html",
+    "title": "Accessible Design",
+    "section": "Semantic HTML",
+    "text": "Semantic HTML"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#accessible-colors",
+    "href": "lectures/accessible-design.dhtml#accessible-colors",
+    "title": "Accessible Design",
+    "section": "Accessible Colors",
+    "text": "Accessible Colors"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#keyboard-navigation",
+    "href": "lectures/accessible-design.dhtml#keyboard-navigation",
+    "title": "Accessible Design",
+    "section": "Keyboard Navigation",
+    "text": "Keyboard Navigation"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#meaningful-text",
+    "href": "lectures/accessible-design.dhtml#meaningful-text",
+    "title": "Accessible Design",
+    "section": "Meaningful Text",
+    "text": "Meaningful Text"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#wai-aria",
+    "href": "lectures/accessible-design.dhtml#wai-aria",
+    "title": "Accessible Design",
+    "section": "WAI-ARIA",
+    "text": "WAI-ARIA"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#accessibility-auditing",
+    "href": "lectures/accessible-design.dhtml#accessibility-auditing",
+    "title": "Accessible Design",
+    "section": "Accessibility Auditing",
+    "text": "Accessibility Auditing"
+  },
+  {
+    "objectID": "lectures/accessible-design.dhtml#summary",
+    "href": "lectures/accessible-design.dhtml#summary",
+    "title": "Accessible Design",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/forms.html#summary",
+    "href": "lectures/forms.html#summary",
+    "title": "Forms",
+    "section": "2 Summary",
+    "text": "2 Summary"
+  },
+  {
+    "objectID": "lectures/forms.dhtml#section",
+    "href": "lectures/forms.dhtml#section",
+    "title": "Forms",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/forms.dhtml#summary",
+    "href": "lectures/forms.dhtml#summary",
+    "title": "Forms",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/media.html#images",
+    "href": "lectures/media.html#images",
+    "title": "Images and Media",
+    "section": "2 Images",
+    "text": "2 Images\n\n2.1 File types"
+  },
+  {
+    "objectID": "lectures/media.html#optimization",
+    "href": "lectures/media.html#optimization",
+    "title": "Images and Media",
+    "section": "3 Optimization",
+    "text": "3 Optimization"
+  },
+  {
+    "objectID": "lectures/media.html#summary",
+    "href": "lectures/media.html#summary",
+    "title": "Images and Media",
+    "section": "4 Summary",
+    "text": "4 Summary"
+  },
+  {
+    "objectID": "lectures/media.dhtml#overview",
+    "href": "lectures/media.dhtml#overview",
+    "title": "Images and Media",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/media.dhtml#images",
+    "href": "lectures/media.dhtml#images",
+    "title": "Images and Media",
+    "section": "Images",
+    "text": "Images\nFile types"
+  },
+  {
+    "objectID": "lectures/media.dhtml#optimization",
+    "href": "lectures/media.dhtml#optimization",
+    "title": "Images and Media",
+    "section": "Optimization",
+    "text": "Optimization"
+  },
+  {
+    "objectID": "lectures/media.dhtml#summary",
+    "href": "lectures/media.dhtml#summary",
+    "title": "Images and Media",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#getting-started",
+    "href": "lectures/html-fundamentals.html#getting-started",
+    "title": "HTML Fundamentals",
+    "section": "2 Getting started",
+    "text": "2 Getting started\n\n2.1 Text\n\n\n2.2 Lists\n\n\n2.3 Links\n\n\n2.4 Images"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#fundamentals",
+    "href": "lectures/html-fundamentals.html#fundamentals",
+    "title": "HTML Fundamentals",
+    "section": "3 Fundamentals",
+    "text": "3 Fundamentals\n\n3.1 Elements and Tags\n\n\n3.2 HTML Boilerplate\n\n\n3.3 Attributes\n\n\n3.4 Syntax"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#element-types",
+    "href": "lectures/html-fundamentals.html#element-types",
+    "title": "HTML Fundamentals",
+    "section": "4 Element types",
+    "text": "4 Element types\n\n4.1 Block vs Inline\n\n\n4.2 Content vs Style"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#document-flow",
+    "href": "lectures/html-fundamentals.html#document-flow",
+    "title": "HTML Fundamentals",
+    "section": "5 Document Flow",
+    "text": "5 Document Flow\n\n5.1 Inline flow\n\n\n5.2 Block flow"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#summary",
+    "href": "lectures/html-fundamentals.html#summary",
+    "title": "HTML Fundamentals",
+    "section": "6 Summary",
+    "text": "6 Summary"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#overview",
+    "href": "lectures/html-fundamentals.dhtml#overview",
+    "title": "HTML Fundamentals",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#getting-started",
+    "href": "lectures/html-fundamentals.dhtml#getting-started",
+    "title": "HTML Fundamentals",
+    "section": "Getting started",
+    "text": "Getting started\nText\nLists\nLinks\nImages"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#fundamentals",
+    "href": "lectures/html-fundamentals.dhtml#fundamentals",
+    "title": "HTML Fundamentals",
+    "section": "Fundamentals",
+    "text": "Fundamentals\nElements and Tags\nHTML Boilerplate\nAttributes\nSyntax"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#element-types",
+    "href": "lectures/html-fundamentals.dhtml#element-types",
+    "title": "HTML Fundamentals",
+    "section": "Element types",
+    "text": "Element types\nBlock vs Inline\nContent vs Style"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#document-flow",
+    "href": "lectures/html-fundamentals.dhtml#document-flow",
+    "title": "HTML Fundamentals",
+    "section": "Document Flow",
+    "text": "Document Flow\nInline flow\nBlock flow"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#summary",
+    "href": "lectures/html-fundamentals.dhtml#summary",
+    "title": "HTML Fundamentals",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/js-fundamentals.html#section",
+    "href": "lectures/js-fundamentals.html#section",
+    "title": "Javascript Fundamentals",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/js-fundamentals.html#summary",
+    "href": "lectures/js-fundamentals.html#summary",
+    "title": "Javascript Fundamentals",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
+    "objectID": "lectures/js-fundamentals.dhtml#overview",
+    "href": "lectures/js-fundamentals.dhtml#overview",
+    "title": "Javascript Fundamentals",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/js-fundamentals.dhtml#section",
+    "href": "lectures/js-fundamentals.dhtml#section",
+    "title": "Javascript Fundamentals",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/js-fundamentals.dhtml#summary",
+    "href": "lectures/js-fundamentals.dhtml#summary",
+    "title": "Javascript Fundamentals",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/grid.html#section",
+    "href": "lectures/grid.html#section",
+    "title": "CSS Grid",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/grid.html#summary",
+    "href": "lectures/grid.html#summary",
+    "title": "CSS Grid",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
+    "objectID": "lectures/grid.dhtml#overview",
+    "href": "lectures/grid.dhtml#overview",
+    "title": "CSS Grid",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/grid.dhtml#section",
+    "href": "lectures/grid.dhtml#section",
+    "title": "CSS Grid",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/grid.dhtml#summary",
+    "href": "lectures/grid.dhtml#summary",
+    "title": "CSS Grid",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Lectures posted throughout the semester\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAccessible Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Fundamentals\n\n\nFundamentals of CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Grid\n\n\nDefining web layouts using a grid topology\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCascade\n\n\nHow CSS resolves selector conflicts\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nColor and Theme\n\n\nFundamentals of color theory for user interfaces in CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nDeveloper Tools\n\n\nApplications for creating and troubleshooting web UI projects\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nFlexbox\n\n\nModern CSS for organizing groups of elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nForms\n\n\nHow to create an interactive form\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nHTML Fundamentals\n\n\nUser Interface Programming\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nImages and Media\n\n\nHow to incorporate images, videos, and other media in web user interfaces\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nJavascript Fundamentals\n\n\nFundamentals of Javascript\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nResponsive Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nTypography\n\n\nHow to specify and style text elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nVSCode tips and tricks\n\n\nTechniques for improving web development skills using VSCode\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Assignments posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "about/syllabus.html#introduction-to-user-interface-development",
+    "href": "about/syllabus.html#introduction-to-user-interface-development",
+    "title": "Syllabus",
+    "section": "2 Introduction to User Interface Development",
+    "text": "2 Introduction to User Interface Development"
+  },
+  {
+    "objectID": "about/syllabus.html#motivation-and-mindset",
+    "href": "about/syllabus.html#motivation-and-mindset",
+    "title": "Syllabus",
+    "section": "3 Motivation and Mindset",
+    "text": "3 Motivation and Mindset"
+  },
+  {
+    "objectID": "about/syllabus.html#asking-for-help",
+    "href": "about/syllabus.html#asking-for-help",
+    "title": "Syllabus",
+    "section": "4 Asking For Help",
+    "text": "4 Asking For Help"
+  },
+  {
+    "objectID": "about/course-outline.html",
+    "href": "about/course-outline.html",
+    "title": "Course Outline",
     "section": "",
     "text": "Text\n\n\n\n Back to top"
   },
@@ -70,94 +462,409 @@
     "text": "Text\n\n\n\n Back to top"
   },
   {
-    "objectID": "about/course-outline.html",
-    "href": "about/course-outline.html",
-    "title": "Course Outline",
+    "objectID": "about/calendar.html",
+    "href": "about/calendar.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Stay tuned: Throughout the semester I will update this calendar with each week’s resources. I will make corresponding updates on LEA so that you continue to get notifications through the regular college channels; however, these links will usually just take you to this page unless I indicate otherwise.\nNOTE: All hyperlinks have a defined &lt;title&gt; attribute. Hover over the links with your mouse to view more information about each :)\n\n\n\nWeek\nLectures\nActivities/Assessments\n\n\n\n\nWeek 1\nTools - VS Code  HTML - boilerplate HTML5, content elements  HTML - fundamentals, syntax, elements \nA1 (5%, due TBD): Creating a document in HTML  Activity: Writing HTML Boilerplate (.html) \n\n\nWeek 2\nHTML - element attributes, document markup  HTML - normal flow, block vs inline elements  Tools - VS Code skills for efficient web development \nTutorial: Marking up a letter  Activity: VS Code shortcuts, editting, Emmet  * Part 1 (Youtube) * Part 2 (Youtube)\n\n\nWeek 3\nHTML - semantic elements, website markup  Tools - browser dev tools for CSS/DOM inspection  CSS - inline vs internal vs external  CSS - fundamentals, syntax, selectors \nA2 (10%, due TBD): Styling a document with CSS  Tutorial: Website Structure  Activity: CSS Diner  Activity: How to use the Browser Dev Tools  * Part 1 * Part 2\n\n\nWeek 4\nCSS - element properties: fonts, images, icons  CSS - layouts: the box model\nTutorial: CSS Foundations Exercises  Tutorial: CSS Box Model Exercises  Tutorial: Typesetting a Homepage (files) \n\n\nWeek 5\nCSS - layouts: the box model, floats \n\n\n\nWeek 6\nCSS - Flexbox \nA3 (12.5%, due TBD) DYnamic behavior with Javascript\n\n\nWeek 7\nJavaScript - Manipulating the DOM, Dynamic styling\n\n\n\nWeek 8\nCSS - Finishing flexbox, test review, lab time\n\n\n\nWeek 9\nCSS - CSS mechanics, the Cascade, specificity  Test 1\n\n\n\nWeek 10\nCSS - Mastering 2D layouts with CSS Grid\nA4 (12.5%, due TBD): Building a webstie \n\n\nWeek 11\nIntermediate CSS - June’s Guest Lecture, Responsive Design\n\n\n\nWeek 12\nIntermediate CSS - HTML Forms\n\n\n\nWeek 13\nIntro to CMS (Content Management Systems)\n\n\n\nWeek 14\nTest 2  Intermediate CSS - Accessibility, Best Practises\n\n\n\nWeek 15\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/course-links.html",
+    "href": "about/course-links.html",
+    "title": "Useful Links",
     "section": "",
     "text": "Text\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Docs",
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assignments/a1-slides.html#example-slide",
-    "href": "assignments/a1-slides.html#example-slide",
-    "title": "Assignment 1",
-    "section": "Example slide",
-    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
-  },
-  {
-    "objectID": "assignments/a1-slides.html#additional-theme-classes",
-    "href": "assignments/a1-slides.html#additional-theme-classes",
-    "title": "Assignment 1",
-    "section": "Additional theme classes",
-    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
-  },
-  {
-    "objectID": "assignments/a1-slides.html#want-more",
-    "href": "assignments/a1-slides.html#want-more",
-    "title": "Assignment 1",
-    "section": "Want more?",
-    "text": "Want more?\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
-  },
-  {
-    "objectID": "assignments/a1-slides.html#sec-summary",
-    "href": "assignments/a1-slides.html#sec-summary",
-    "title": "Assignment 1",
-    "section": "Summary",
-    "text": "Summary\nA minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+    "text": "About this site\n\n\n\n\n\n\n\n\n  \n\n\n\n\nColophon\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nCourse Outline\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nUseful Links\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "assignments/a1.html",
     "href": "assignments/a1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "Adapted from https://github.com/grantmcdermott/quarto-revealjs-clean/blob/main/template.qmd"
+    "text": "Back to top"
   },
   {
-    "objectID": "assignments/a1.html#example-slide",
-    "href": "assignments/a1.html#example-slide",
-    "title": "Assignment 1",
-    "section": "1 Example slide",
-    "text": "1 Example slide\n\n1.1 This is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "User Interfaces",
+    "section": "",
+    "text": "This is is the landing page.\n\n\n\n Back to top"
   },
   {
-    "objectID": "assignments/a1.html#additional-theme-classes",
-    "href": "assignments/a1.html#additional-theme-classes",
-    "title": "Assignment 1",
-    "section": "2 Additional theme classes",
-    "text": "2 Additional theme classes\n\n2.1 Some extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+    "objectID": "lectures/typography.dhtml#oerview",
+    "href": "lectures/typography.dhtml#oerview",
+    "title": "Typography",
+    "section": "Oerview",
+    "text": "Oerview"
   },
   {
-    "objectID": "assignments/a1.html#want-more",
-    "href": "assignments/a1.html#want-more",
-    "title": "Assignment 1",
-    "section": "3 Want more?",
-    "text": "3 Want more?\n\n3.1 See our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+    "objectID": "lectures/typography.dhtml#section",
+    "href": "lectures/typography.dhtml#section",
+    "title": "Typography",
+    "section": "Section",
+    "text": "Section\nSub section"
   },
   {
-    "objectID": "assignments/a1.html#sec-summary",
-    "href": "assignments/a1.html#sec-summary",
-    "title": "Assignment 1",
+    "objectID": "lectures/typography.dhtml#summary",
+    "href": "lectures/typography.dhtml#summary",
+    "title": "Typography",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/typography.html#section",
+    "href": "lectures/typography.html#section",
+    "title": "Typography",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/typography.html#summary",
+    "href": "lectures/typography.html#summary",
+    "title": "Typography",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#overview",
+    "href": "lectures/flexbox.dhtml#overview",
+    "title": "Flexbox",
+    "section": "Overview",
+    "text": "Overview\nIntroduction to Flexbox"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#growing-and-shrinking",
+    "href": "lectures/flexbox.dhtml#growing-and-shrinking",
+    "title": "Flexbox",
+    "section": "Growing and Shrinking",
+    "text": "Growing and Shrinking"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#axes",
+    "href": "lectures/flexbox.dhtml#axes",
+    "title": "Flexbox",
+    "section": "Axes",
+    "text": "Axes"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#alignment",
+    "href": "lectures/flexbox.dhtml#alignment",
+    "title": "Flexbox",
+    "section": "Alignment",
+    "text": "Alignment"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#summary",
+    "href": "lectures/flexbox.dhtml#summary",
+    "title": "Flexbox",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/flexbox.html",
+    "href": "lectures/flexbox.html",
+    "title": "Flexbox",
+    "section": "",
+    "text": "Introduction to Flexbox"
+  },
+  {
+    "objectID": "lectures/flexbox.html#overview",
+    "href": "lectures/flexbox.html#overview",
+    "title": "Flexbox",
+    "section": "",
+    "text": "Introduction to Flexbox"
+  },
+  {
+    "objectID": "lectures/flexbox.html#growing-and-shrinking",
+    "href": "lectures/flexbox.html#growing-and-shrinking",
+    "title": "Flexbox",
+    "section": "2 Growing and Shrinking",
+    "text": "2 Growing and Shrinking"
+  },
+  {
+    "objectID": "lectures/flexbox.html#axes",
+    "href": "lectures/flexbox.html#axes",
+    "title": "Flexbox",
+    "section": "3 Axes",
+    "text": "3 Axes"
+  },
+  {
+    "objectID": "lectures/flexbox.html#alignment",
+    "href": "lectures/flexbox.html#alignment",
+    "title": "Flexbox",
+    "section": "4 Alignment",
+    "text": "4 Alignment"
+  },
+  {
+    "objectID": "lectures/flexbox.html#summary",
+    "href": "lectures/flexbox.html#summary",
+    "title": "Flexbox",
+    "section": "5 Summary",
+    "text": "5 Summary"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.dhtml#overview",
+    "href": "lectures/css-fundamentals.dhtml#overview",
+    "title": "CSS Fundamentals",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.dhtml#fundamentals",
+    "href": "lectures/css-fundamentals.dhtml#fundamentals",
+    "title": "CSS Fundamentals",
+    "section": "Fundamentals",
+    "text": "Fundamentals\nSelectors\nSyntax\nThe Box Model\nThe Cascade"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.dhtml#loading-css",
+    "href": "lectures/css-fundamentals.dhtml#loading-css",
+    "title": "CSS Fundamentals",
+    "section": "Loading CSS",
+    "text": "Loading CSS\nInline\nInternal\nExternal"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.dhtml#properties",
+    "href": "lectures/css-fundamentals.dhtml#properties",
+    "title": "CSS Fundamentals",
+    "section": "Properties",
+    "text": "Properties\nBlock and Inline"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.dhtml#summary",
+    "href": "lectures/css-fundamentals.dhtml#summary",
+    "title": "CSS Fundamentals",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#fundamentals",
+    "href": "lectures/css-fundamentals.html#fundamentals",
+    "title": "CSS Fundamentals",
+    "section": "2 Fundamentals",
+    "text": "2 Fundamentals\n\n2.1 Selectors\n\n\n2.2 Syntax\n\n\n2.3 The Box Model\n\n\n2.4 The Cascade"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#loading-css",
+    "href": "lectures/css-fundamentals.html#loading-css",
+    "title": "CSS Fundamentals",
+    "section": "3 Loading CSS",
+    "text": "3 Loading CSS\n\n3.1 Inline\n\n\n3.2 Internal\n\n\n3.3 External"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#properties",
+    "href": "lectures/css-fundamentals.html#properties",
+    "title": "CSS Fundamentals",
+    "section": "4 Properties",
+    "text": "4 Properties\n\n4.1 Block and Inline"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#summary",
+    "href": "lectures/css-fundamentals.html#summary",
+    "title": "CSS Fundamentals",
+    "section": "5 Summary",
+    "text": "5 Summary"
+  },
+  {
+    "objectID": "lectures/cascade.dhtml#section",
+    "href": "lectures/cascade.dhtml#section",
+    "title": "Cascade",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/cascade.dhtml#summary",
+    "href": "lectures/cascade.dhtml#summary",
+    "title": "Cascade",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/cascade.html#summary",
+    "href": "lectures/cascade.html#summary",
+    "title": "Cascade",
+    "section": "2 Summary",
+    "text": "2 Summary"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#introduction-to-responsive-design",
+    "href": "lectures/responsive-design.dhtml#introduction-to-responsive-design",
+    "title": "Responsive Design",
+    "section": "Introduction to Responsive Design",
+    "text": "Introduction to Responsive Design"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#natural-responsiveness",
+    "href": "lectures/responsive-design.dhtml#natural-responsiveness",
+    "title": "Responsive Design",
+    "section": "Natural Responsiveness",
+    "text": "Natural Responsiveness"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#responsive-images",
+    "href": "lectures/responsive-design.dhtml#responsive-images",
+    "title": "Responsive Design",
+    "section": "Responsive Images",
+    "text": "Responsive Images"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#media-queries",
+    "href": "lectures/responsive-design.dhtml#media-queries",
+    "title": "Responsive Design",
+    "section": "Media Queries",
+    "text": "Media Queries"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#containers",
+    "href": "lectures/responsive-design.dhtml#containers",
+    "title": "Responsive Design",
+    "section": "Containers",
+    "text": "Containers"
+  },
+  {
+    "objectID": "lectures/responsive-design.dhtml#summary",
+    "href": "lectures/responsive-design.dhtml#summary",
+    "title": "Responsive Design",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/responsive-design.html#natural-responsiveness",
+    "href": "lectures/responsive-design.html#natural-responsiveness",
+    "title": "Responsive Design",
+    "section": "2 Natural Responsiveness",
+    "text": "2 Natural Responsiveness"
+  },
+  {
+    "objectID": "lectures/responsive-design.html#responsive-images",
+    "href": "lectures/responsive-design.html#responsive-images",
+    "title": "Responsive Design",
+    "section": "3 Responsive Images",
+    "text": "3 Responsive Images"
+  },
+  {
+    "objectID": "lectures/responsive-design.html#media-queries",
+    "href": "lectures/responsive-design.html#media-queries",
+    "title": "Responsive Design",
+    "section": "4 Media Queries",
+    "text": "4 Media Queries"
+  },
+  {
+    "objectID": "lectures/responsive-design.html#containers",
+    "href": "lectures/responsive-design.html#containers",
+    "title": "Responsive Design",
+    "section": "5 Containers",
+    "text": "5 Containers"
+  },
+  {
+    "objectID": "lectures/responsive-design.html#summary",
+    "href": "lectures/responsive-design.html#summary",
+    "title": "Responsive Design",
+    "section": "6 Summary",
+    "text": "6 Summary"
+  },
+  {
+    "objectID": "lectures/dev-tools.dhtml#overview",
+    "href": "lectures/dev-tools.dhtml#overview",
+    "title": "Developer Tools",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/dev-tools.dhtml#browser",
+    "href": "lectures/dev-tools.dhtml#browser",
+    "title": "Developer Tools",
+    "section": "Browser",
+    "text": "Browser\nChoices\nFeature support\nInspecting HTML in the Browser"
+  },
+  {
+    "objectID": "lectures/dev-tools.dhtml#ide",
+    "href": "lectures/dev-tools.dhtml#ide",
+    "title": "Developer Tools",
+    "section": "IDE",
+    "text": "IDE\nVS Code\nCodepen\nText editors"
+  },
+  {
+    "objectID": "lectures/dev-tools.dhtml#summary",
+    "href": "lectures/dev-tools.dhtml#summary",
+    "title": "Developer Tools",
+    "section": "Summary",
+    "text": "Summary\nRecommendations\n\nFirefox for browser\nkeep up to date with features you can/can’t use with caniuse.com\nPractise using the browser developer tools\nVS Code for IDE\nEmmets"
+  },
+  {
+    "objectID": "lectures/dev-tools.html#browser",
+    "href": "lectures/dev-tools.html#browser",
+    "title": "Developer Tools",
+    "section": "2 Browser",
+    "text": "2 Browser\n\n2.1 Choices\n\n\n2.2 Feature support\n\n\n2.3 Inspecting HTML in the Browser"
+  },
+  {
+    "objectID": "lectures/dev-tools.html#ide",
+    "href": "lectures/dev-tools.html#ide",
+    "title": "Developer Tools",
+    "section": "3 IDE",
+    "text": "3 IDE\n\n3.1 VS Code\n\n\n3.2 Codepen\n\n\n3.3 Text editors"
+  },
+  {
+    "objectID": "lectures/dev-tools.html#summary",
+    "href": "lectures/dev-tools.html#summary",
+    "title": "Developer Tools",
     "section": "4 Summary",
-    "text": "4 Summary\n\n4.1 A minimal and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimal and elegant presention theme.\nInstall the theme.\nquarto install extension grantmcdermott/quarto-revealjs-clean\nUse this lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\nUse the longer demo template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+    "text": "4 Summary\n\n4.1 Recommendations\n\nFirefox for browser\nkeep up to date with features you can/can’t use with caniuse.com\nPractise using the browser developer tools\nVS Code for IDE\nEmmets"
   },
   {
-    "objectID": "tutorials/welcome.html",
-    "href": "tutorials/welcome.html",
-    "title": "Sample Page",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
+    "objectID": "lectures/color.dhtml#oerview",
+    "href": "lectures/color.dhtml#oerview",
+    "title": "Color and Theme",
+    "section": "Oerview",
+    "text": "Oerview"
   },
   {
-    "objectID": "lectures/welcome.html",
-    "href": "lectures/welcome.html",
-    "title": "Sample Page",
+    "objectID": "lectures/color.dhtml#section",
+    "href": "lectures/color.dhtml#section",
+    "title": "Color and Theme",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/color.dhtml#summary",
+    "href": "lectures/color.dhtml#summary",
+    "title": "Color and Theme",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/color.html#section",
+    "href": "lectures/color.html#section",
+    "title": "Color and Theme",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/color.html#summary",
+    "href": "lectures/color.html#summary",
+    "title": "Color and Theme",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Reference",
     "section": "",
-    "text": "Text\n\n\n\n Back to top"
+    "text": "Reference posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Tutorials posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   }
 ]
