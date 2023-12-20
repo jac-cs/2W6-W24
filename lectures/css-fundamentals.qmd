@@ -9,7 +9,7 @@ format:
   pdf: default
   docx: default
   clean-revealjs: 
-    output-ext: dhtml
+    output-ext: htm
 format-links: [html, pdf, clean-revealjs]
 ---
 
