@@ -1,64 +1,36 @@
 [
   {
-    "objectID": "tutorials/welcome.html",
-    "href": "tutorials/welcome.html",
-    "title": "Sample Page",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
+    "objectID": "lectures/color.html#section",
+    "href": "lectures/color.html#section",
+    "title": "Color and Theme",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
   },
   {
-    "objectID": "reference/welcome.html",
-    "href": "reference/welcome.html",
-    "title": "Sample Page",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
+    "objectID": "lectures/color.html#summary",
+    "href": "lectures/color.html#summary",
+    "title": "Color and Theme",
+    "section": "3 Summary",
+    "text": "3 Summary"
   },
   {
-    "objectID": "lectures/vs-code.html#plugins",
-    "href": "lectures/vs-code.html#plugins",
-    "title": "VSCode tips and tricks",
-    "section": "2 Plugins",
-    "text": "2 Plugins\n\n2.1 Live server"
+    "objectID": "lectures/color.dhtml#oerview",
+    "href": "lectures/color.dhtml#oerview",
+    "title": "Color and Theme",
+    "section": "Oerview",
+    "text": "Oerview"
   },
   {
-    "objectID": "lectures/vs-code.html#emmet",
-    "href": "lectures/vs-code.html#emmet",
-    "title": "VSCode tips and tricks",
-    "section": "3 Emmet",
-    "text": "3 Emmet\n\n3.1 Technique 1\n\n\n3.2 Technique 2"
+    "objectID": "lectures/color.dhtml#section",
+    "href": "lectures/color.dhtml#section",
+    "title": "Color and Theme",
+    "section": "Section",
+    "text": "Section\nSub section"
   },
   {
-    "objectID": "lectures/vs-code.html#summary",
-    "href": "lectures/vs-code.html#summary",
-    "title": "VSCode tips and tricks",
-    "section": "4 Summary",
-    "text": "4 Summary"
-  },
-  {
-    "objectID": "lectures/vs-code.dhtml#overview",
-    "href": "lectures/vs-code.dhtml#overview",
-    "title": "VSCode tips and tricks",
-    "section": "Overview",
-    "text": "Overview"
-  },
-  {
-    "objectID": "lectures/vs-code.dhtml#plugins",
-    "href": "lectures/vs-code.dhtml#plugins",
-    "title": "VSCode tips and tricks",
-    "section": "Plugins",
-    "text": "Plugins\nLive server"
-  },
-  {
-    "objectID": "lectures/vs-code.dhtml#emmet",
-    "href": "lectures/vs-code.dhtml#emmet",
-    "title": "VSCode tips and tricks",
-    "section": "Emmet",
-    "text": "Emmet\nTechnique 1\nTechnique 2"
-  },
-  {
-    "objectID": "lectures/vs-code.dhtml#summary",
-    "href": "lectures/vs-code.dhtml#summary",
-    "title": "VSCode tips and tricks",
+    "objectID": "lectures/color.dhtml#summary",
+    "href": "lectures/color.dhtml#summary",
+    "title": "Color and Theme",
     "section": "Summary",
     "text": "Summary"
   },
@@ -196,153 +168,6 @@
     "text": "Summary"
   },
   {
-    "objectID": "lectures/forms.html#summary",
-    "href": "lectures/forms.html#summary",
-    "title": "Forms",
-    "section": "2 Summary",
-    "text": "2 Summary"
-  },
-  {
-    "objectID": "lectures/forms.dhtml#section",
-    "href": "lectures/forms.dhtml#section",
-    "title": "Forms",
-    "section": "Section",
-    "text": "Section\nSub section"
-  },
-  {
-    "objectID": "lectures/forms.dhtml#summary",
-    "href": "lectures/forms.dhtml#summary",
-    "title": "Forms",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
-    "objectID": "lectures/media.html#images",
-    "href": "lectures/media.html#images",
-    "title": "Images and Media",
-    "section": "2 Images",
-    "text": "2 Images\n\n2.1 File types"
-  },
-  {
-    "objectID": "lectures/media.html#optimization",
-    "href": "lectures/media.html#optimization",
-    "title": "Images and Media",
-    "section": "3 Optimization",
-    "text": "3 Optimization"
-  },
-  {
-    "objectID": "lectures/media.html#summary",
-    "href": "lectures/media.html#summary",
-    "title": "Images and Media",
-    "section": "4 Summary",
-    "text": "4 Summary"
-  },
-  {
-    "objectID": "lectures/media.dhtml#overview",
-    "href": "lectures/media.dhtml#overview",
-    "title": "Images and Media",
-    "section": "Overview",
-    "text": "Overview"
-  },
-  {
-    "objectID": "lectures/media.dhtml#images",
-    "href": "lectures/media.dhtml#images",
-    "title": "Images and Media",
-    "section": "Images",
-    "text": "Images\nFile types"
-  },
-  {
-    "objectID": "lectures/media.dhtml#optimization",
-    "href": "lectures/media.dhtml#optimization",
-    "title": "Images and Media",
-    "section": "Optimization",
-    "text": "Optimization"
-  },
-  {
-    "objectID": "lectures/media.dhtml#summary",
-    "href": "lectures/media.dhtml#summary",
-    "title": "Images and Media",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.html#getting-started",
-    "href": "lectures/html-fundamentals.html#getting-started",
-    "title": "HTML Fundamentals",
-    "section": "2 Getting started",
-    "text": "2 Getting started\n\n2.1 Text\n\n\n2.2 Lists\n\n\n2.3 Links\n\n\n2.4 Images"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.html#fundamentals",
-    "href": "lectures/html-fundamentals.html#fundamentals",
-    "title": "HTML Fundamentals",
-    "section": "3 Fundamentals",
-    "text": "3 Fundamentals\n\n3.1 Elements and Tags\n\n\n3.2 HTML Boilerplate\n\n\n3.3 Attributes\n\n\n3.4 Syntax"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.html#element-types",
-    "href": "lectures/html-fundamentals.html#element-types",
-    "title": "HTML Fundamentals",
-    "section": "4 Element types",
-    "text": "4 Element types\n\n4.1 Block vs Inline\n\n\n4.2 Content vs Style"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.html#document-flow",
-    "href": "lectures/html-fundamentals.html#document-flow",
-    "title": "HTML Fundamentals",
-    "section": "5 Document Flow",
-    "text": "5 Document Flow\n\n5.1 Inline flow\n\n\n5.2 Block flow"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.html#summary",
-    "href": "lectures/html-fundamentals.html#summary",
-    "title": "HTML Fundamentals",
-    "section": "6 Summary",
-    "text": "6 Summary"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#overview",
-    "href": "lectures/html-fundamentals.dhtml#overview",
-    "title": "HTML Fundamentals",
-    "section": "Overview",
-    "text": "Overview"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#getting-started",
-    "href": "lectures/html-fundamentals.dhtml#getting-started",
-    "title": "HTML Fundamentals",
-    "section": "Getting started",
-    "text": "Getting started\nText\nLists\nLinks\nImages"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#fundamentals",
-    "href": "lectures/html-fundamentals.dhtml#fundamentals",
-    "title": "HTML Fundamentals",
-    "section": "Fundamentals",
-    "text": "Fundamentals\nElements and Tags\nHTML Boilerplate\nAttributes\nSyntax"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#element-types",
-    "href": "lectures/html-fundamentals.dhtml#element-types",
-    "title": "HTML Fundamentals",
-    "section": "Element types",
-    "text": "Element types\nBlock vs Inline\nContent vs Style"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#document-flow",
-    "href": "lectures/html-fundamentals.dhtml#document-flow",
-    "title": "HTML Fundamentals",
-    "section": "Document Flow",
-    "text": "Document Flow\nInline flow\nBlock flow"
-  },
-  {
-    "objectID": "lectures/html-fundamentals.dhtml#summary",
-    "href": "lectures/html-fundamentals.dhtml#summary",
-    "title": "HTML Fundamentals",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
     "objectID": "lectures/js-fundamentals.html#section",
     "href": "lectures/js-fundamentals.html#section",
     "title": "Javascript Fundamentals",
@@ -374,195 +199,6 @@
     "objectID": "lectures/js-fundamentals.dhtml#summary",
     "href": "lectures/js-fundamentals.dhtml#summary",
     "title": "Javascript Fundamentals",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
-    "objectID": "lectures/grid.html#section",
-    "href": "lectures/grid.html#section",
-    "title": "CSS Grid",
-    "section": "2 Section",
-    "text": "2 Section\n\n2.1 Sub section"
-  },
-  {
-    "objectID": "lectures/grid.html#summary",
-    "href": "lectures/grid.html#summary",
-    "title": "CSS Grid",
-    "section": "3 Summary",
-    "text": "3 Summary"
-  },
-  {
-    "objectID": "lectures/grid.dhtml#overview",
-    "href": "lectures/grid.dhtml#overview",
-    "title": "CSS Grid",
-    "section": "Overview",
-    "text": "Overview"
-  },
-  {
-    "objectID": "lectures/grid.dhtml#section",
-    "href": "lectures/grid.dhtml#section",
-    "title": "CSS Grid",
-    "section": "Section",
-    "text": "Section\nSub section"
-  },
-  {
-    "objectID": "lectures/grid.dhtml#summary",
-    "href": "lectures/grid.dhtml#summary",
-    "title": "CSS Grid",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
-    "objectID": "lectures/index.html",
-    "href": "lectures/index.html",
-    "title": "Lectures",
-    "section": "",
-    "text": "Lectures posted throughout the semester\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAccessible Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Fundamentals\n\n\nFundamentals of CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Grid\n\n\nDefining web layouts using a grid topology\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCascade\n\n\nHow CSS resolves selector conflicts\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nColor and Theme\n\n\nFundamentals of color theory for user interfaces in CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nDeveloper Tools\n\n\nApplications for creating and troubleshooting web UI projects\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nFlexbox\n\n\nModern CSS for organizing groups of elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nForms\n\n\nHow to create an interactive form\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nHTML Fundamentals\n\n\nUser Interface Programming\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nImages and Media\n\n\nHow to incorporate images, videos, and other media in web user interfaces\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nJavascript Fundamentals\n\n\nFundamentals of Javascript\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nResponsive Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nTypography\n\n\nHow to specify and style text elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nVSCode tips and tricks\n\n\nTechniques for improving web development skills using VSCode\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "assignments/index.html",
-    "href": "assignments/index.html",
-    "title": "Assignments",
-    "section": "",
-    "text": "Assignments posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "about/syllabus.html#introduction-to-user-interface-development",
-    "href": "about/syllabus.html#introduction-to-user-interface-development",
-    "title": "Syllabus",
-    "section": "2 Introduction to User Interface Development",
-    "text": "2 Introduction to User Interface Development"
-  },
-  {
-    "objectID": "about/syllabus.html#motivation-and-mindset",
-    "href": "about/syllabus.html#motivation-and-mindset",
-    "title": "Syllabus",
-    "section": "3 Motivation and Mindset",
-    "text": "3 Motivation and Mindset"
-  },
-  {
-    "objectID": "about/syllabus.html#asking-for-help",
-    "href": "about/syllabus.html#asking-for-help",
-    "title": "Syllabus",
-    "section": "4 Asking For Help",
-    "text": "4 Asking For Help"
-  },
-  {
-    "objectID": "about/course-outline.html",
-    "href": "about/course-outline.html",
-    "title": "Course Outline",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/colophon.html",
-    "href": "about/colophon.html",
-    "title": "Colophon",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/calendar.html",
-    "href": "about/calendar.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Stay tuned: Throughout the semester I will update this calendar with each week’s resources. I will make corresponding updates on LEA so that you continue to get notifications through the regular college channels; however, these links will usually just take you to this page unless I indicate otherwise.\nNOTE: All hyperlinks have a defined &lt;title&gt; attribute. Hover over the links with your mouse to view more information about each :)\n\n\n\nWeek\nLectures\nActivities/Assessments\n\n\n\n\nWeek 1\nTools - VS Code  HTML - boilerplate HTML5, content elements  HTML - fundamentals, syntax, elements \nA1 (5%, due TBD): Creating a document in HTML  Activity: Writing HTML Boilerplate (.html) \n\n\nWeek 2\nHTML - element attributes, document markup  HTML - normal flow, block vs inline elements  Tools - VS Code skills for efficient web development \nTutorial: Marking up a letter  Activity: VS Code shortcuts, editting, Emmet  * Part 1 (Youtube) * Part 2 (Youtube)\n\n\nWeek 3\nHTML - semantic elements, website markup  Tools - browser dev tools for CSS/DOM inspection  CSS - inline vs internal vs external  CSS - fundamentals, syntax, selectors \nA2 (10%, due TBD): Styling a document with CSS  Tutorial: Website Structure  Activity: CSS Diner  Activity: How to use the Browser Dev Tools  * Part 1 * Part 2\n\n\nWeek 4\nCSS - element properties: fonts, images, icons  CSS - layouts: the box model\nTutorial: CSS Foundations Exercises  Tutorial: CSS Box Model Exercises  Tutorial: Typesetting a Homepage (files) \n\n\nWeek 5\nCSS - layouts: the box model, floats \n\n\n\nWeek 6\nCSS - Flexbox \nA3 (12.5%, due TBD) DYnamic behavior with Javascript\n\n\nWeek 7\nJavaScript - Manipulating the DOM, Dynamic styling\n\n\n\nWeek 8\nCSS - Finishing flexbox, test review, lab time\n\n\n\nWeek 9\nCSS - CSS mechanics, the Cascade, specificity  Test 1\n\n\n\nWeek 10\nCSS - Mastering 2D layouts with CSS Grid\nA4 (12.5%, due TBD): Building a webstie \n\n\nWeek 11\nIntermediate CSS - June’s Guest Lecture, Responsive Design\n\n\n\nWeek 12\nIntermediate CSS - HTML Forms\n\n\n\nWeek 13\nIntro to CMS (Content Management Systems)\n\n\n\nWeek 14\nTest 2  Intermediate CSS - Accessibility, Best Practises\n\n\n\nWeek 15\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/course-links.html",
-    "href": "about/course-links.html",
-    "title": "Useful Links",
-    "section": "",
-    "text": "Text\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n\n\n\n\n\n\n  \n\n\n\n\nColophon\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nCourse Outline\n\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nUseful Links\n\n\n\n\n\n\n\n\n\n\n\n\nDec 19, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "assignments/a1.html",
-    "href": "assignments/a1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "User Interfaces",
-    "section": "",
-    "text": "This is is the landing page.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "lectures/typography.dhtml#oerview",
-    "href": "lectures/typography.dhtml#oerview",
-    "title": "Typography",
-    "section": "Oerview",
-    "text": "Oerview"
-  },
-  {
-    "objectID": "lectures/typography.dhtml#section",
-    "href": "lectures/typography.dhtml#section",
-    "title": "Typography",
-    "section": "Section",
-    "text": "Section\nSub section"
-  },
-  {
-    "objectID": "lectures/typography.dhtml#summary",
-    "href": "lectures/typography.dhtml#summary",
-    "title": "Typography",
-    "section": "Summary",
-    "text": "Summary"
-  },
-  {
-    "objectID": "lectures/typography.html#section",
-    "href": "lectures/typography.html#section",
-    "title": "Typography",
-    "section": "2 Section",
-    "text": "2 Section\n\n2.1 Sub section"
-  },
-  {
-    "objectID": "lectures/typography.html#summary",
-    "href": "lectures/typography.html#summary",
-    "title": "Typography",
-    "section": "3 Summary",
-    "text": "3 Summary"
-  },
-  {
-    "objectID": "lectures/flexbox.dhtml#overview",
-    "href": "lectures/flexbox.dhtml#overview",
-    "title": "Flexbox",
-    "section": "Overview",
-    "text": "Overview\nIntroduction to Flexbox"
-  },
-  {
-    "objectID": "lectures/flexbox.dhtml#growing-and-shrinking",
-    "href": "lectures/flexbox.dhtml#growing-and-shrinking",
-    "title": "Flexbox",
-    "section": "Growing and Shrinking",
-    "text": "Growing and Shrinking"
-  },
-  {
-    "objectID": "lectures/flexbox.dhtml#axes",
-    "href": "lectures/flexbox.dhtml#axes",
-    "title": "Flexbox",
-    "section": "Axes",
-    "text": "Axes"
-  },
-  {
-    "objectID": "lectures/flexbox.dhtml#alignment",
-    "href": "lectures/flexbox.dhtml#alignment",
-    "title": "Flexbox",
-    "section": "Alignment",
-    "text": "Alignment"
-  },
-  {
-    "objectID": "lectures/flexbox.dhtml#summary",
-    "href": "lectures/flexbox.dhtml#summary",
-    "title": "Flexbox",
     "section": "Summary",
     "text": "Summary"
   },
@@ -609,6 +245,69 @@
     "text": "5 Summary"
   },
   {
+    "objectID": "lectures/flexbox.dhtml#overview",
+    "href": "lectures/flexbox.dhtml#overview",
+    "title": "Flexbox",
+    "section": "Overview",
+    "text": "Overview\nIntroduction to Flexbox"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#growing-and-shrinking",
+    "href": "lectures/flexbox.dhtml#growing-and-shrinking",
+    "title": "Flexbox",
+    "section": "Growing and Shrinking",
+    "text": "Growing and Shrinking"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#axes",
+    "href": "lectures/flexbox.dhtml#axes",
+    "title": "Flexbox",
+    "section": "Axes",
+    "text": "Axes"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#alignment",
+    "href": "lectures/flexbox.dhtml#alignment",
+    "title": "Flexbox",
+    "section": "Alignment",
+    "text": "Alignment"
+  },
+  {
+    "objectID": "lectures/flexbox.dhtml#summary",
+    "href": "lectures/flexbox.dhtml#summary",
+    "title": "Flexbox",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#fundamentals",
+    "href": "lectures/css-fundamentals.html#fundamentals",
+    "title": "CSS Fundamentals",
+    "section": "2 Fundamentals",
+    "text": "2 Fundamentals\n\n2.1 Selectors\n\n\n2.2 Syntax\n\n\n2.3 The Box Model\n\n\n2.4 The Cascade"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#loading-css",
+    "href": "lectures/css-fundamentals.html#loading-css",
+    "title": "CSS Fundamentals",
+    "section": "3 Loading CSS",
+    "text": "3 Loading CSS\n\n3.1 Inline\n\n\n3.2 Internal\n\n\n3.3 External"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#properties",
+    "href": "lectures/css-fundamentals.html#properties",
+    "title": "CSS Fundamentals",
+    "section": "4 Properties",
+    "text": "4 Properties\n\n4.1 Block and Inline"
+  },
+  {
+    "objectID": "lectures/css-fundamentals.html#summary",
+    "href": "lectures/css-fundamentals.html#summary",
+    "title": "CSS Fundamentals",
+    "section": "5 Summary",
+    "text": "5 Summary"
+  },
+  {
     "objectID": "lectures/css-fundamentals.dhtml#overview",
     "href": "lectures/css-fundamentals.dhtml#overview",
     "title": "CSS Fundamentals",
@@ -644,32 +343,18 @@
     "text": "Summary"
   },
   {
-    "objectID": "lectures/css-fundamentals.html#fundamentals",
-    "href": "lectures/css-fundamentals.html#fundamentals",
-    "title": "CSS Fundamentals",
-    "section": "2 Fundamentals",
-    "text": "2 Fundamentals\n\n2.1 Selectors\n\n\n2.2 Syntax\n\n\n2.3 The Box Model\n\n\n2.4 The Cascade"
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Lectures posted throughout the semester\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAccessible Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Fundamentals\n\n\nFundamentals of CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCSS Grid\n\n\nDefining web layouts using a grid topology\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nCascade\n\n\nHow CSS resolves selector conflicts\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nColor and Theme\n\n\nFundamentals of color theory for user interfaces in CSS\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nDeveloper Tools\n\n\nApplications for creating and troubleshooting web UI projects\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nFlexbox\n\n\nModern CSS for organizing groups of elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nForms\n\n\nHow to create an interactive form\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nHTML Fundamentals\n\n\nUser Interface Programming\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nImages and Media\n\n\nHow to incorporate images, videos, and other media in web user interfaces\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nJavascript Fundamentals\n\n\nFundamentals of Javascript\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nResponsive Design\n\n\nHow to make websites that work for everyone on all devices\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nTypography\n\n\nHow to specify and style text elements\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\n  \n\n\n\n\nVSCode tips and tricks\n\n\nTechniques for improving web development skills using VSCode\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\nMichael Haaf\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "lectures/css-fundamentals.html#loading-css",
-    "href": "lectures/css-fundamentals.html#loading-css",
-    "title": "CSS Fundamentals",
-    "section": "3 Loading CSS",
-    "text": "3 Loading CSS\n\n3.1 Inline\n\n\n3.2 Internal\n\n\n3.3 External"
-  },
-  {
-    "objectID": "lectures/css-fundamentals.html#properties",
-    "href": "lectures/css-fundamentals.html#properties",
-    "title": "CSS Fundamentals",
-    "section": "4 Properties",
-    "text": "4 Properties\n\n4.1 Block and Inline"
-  },
-  {
-    "objectID": "lectures/css-fundamentals.html#summary",
-    "href": "lectures/css-fundamentals.html#summary",
-    "title": "CSS Fundamentals",
-    "section": "5 Summary",
-    "text": "5 Summary"
+    "objectID": "lectures/cascade.html#summary",
+    "href": "lectures/cascade.html#summary",
+    "title": "Cascade",
+    "section": "2 Summary",
+    "text": "2 Summary"
   },
   {
     "objectID": "lectures/cascade.dhtml#section",
@@ -686,11 +371,214 @@
     "text": "Summary"
   },
   {
-    "objectID": "lectures/cascade.html#summary",
-    "href": "lectures/cascade.html#summary",
-    "title": "Cascade",
+    "objectID": "tutorials/welcome.html",
+    "href": "tutorials/welcome.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/a1.html",
+    "href": "assignments/a1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "User Interfaces",
+    "section": "",
+    "text": "This is is the landing page.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/course-outline.html",
+    "href": "about/course-outline.html",
+    "title": "Course Outline",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/colophon.html",
+    "href": "about/colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/calendar.html",
+    "href": "about/calendar.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Stay tuned: Throughout the semester I will update this calendar with each week’s resources. I will make corresponding updates on LEA so that you continue to get notifications through the regular college channels; however, these links will usually just take you to this page unless I indicate otherwise.\nNOTE: All hyperlinks have a defined &lt;title&gt; attribute. Hover over the links with your mouse to view more information about each :)\n\n\n\nWeek\nLectures\nActivities/Assessments\n\n\n\n\nWeek 1\nTools - VS Code  HTML - boilerplate HTML5, content elements  HTML - fundamentals, syntax, elements \nA1 (5%, due TBD): Creating a document in HTML  Activity: Writing HTML Boilerplate (.html) \n\n\nWeek 2\nHTML - element attributes, document markup  HTML - normal flow, block vs inline elements  Tools - VS Code skills for efficient web development \nTutorial: Marking up a letter  Activity: VS Code shortcuts, editting, Emmet  * Part 1 (Youtube) * Part 2 (Youtube)\n\n\nWeek 3\nHTML - semantic elements, website markup  Tools - browser dev tools for CSS/DOM inspection  CSS - inline vs internal vs external  CSS - fundamentals, syntax, selectors \nA2 (10%, due TBD): Styling a document with CSS  Tutorial: Website Structure  Activity: CSS Diner  Activity: How to use the Browser Dev Tools  * Part 1 * Part 2\n\n\nWeek 4\nCSS - element properties: fonts, images, icons  CSS - layouts: the box model\nTutorial: CSS Foundations Exercises  Tutorial: CSS Box Model Exercises  Tutorial: Typesetting a Homepage (files) \n\n\nWeek 5\nCSS - layouts: the box model, floats \n\n\n\nWeek 6\nCSS - Flexbox \nA3 (12.5%, due TBD) DYnamic behavior with Javascript\n\n\nWeek 7\nJavaScript - Manipulating the DOM, Dynamic styling\n\n\n\nWeek 8\nCSS - Finishing flexbox, test review, lab time\n\n\n\nWeek 9\nCSS - CSS mechanics, the Cascade, specificity  Test 1\n\n\n\nWeek 10\nCSS - Mastering 2D layouts with CSS Grid\nA4 (12.5%, due TBD): Building a webstie \n\n\nWeek 11\nIntermediate CSS - June’s Guest Lecture, Responsive Design\n\n\n\nWeek 12\nIntermediate CSS - HTML Forms\n\n\n\nWeek 13\nIntro to CMS (Content Management Systems)\n\n\n\nWeek 14\nTest 2  Intermediate CSS - Accessibility, Best Practises\n\n\n\nWeek 15\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Reference",
+    "section": "",
+    "text": "Reference posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "reference/welcome.html",
+    "href": "reference/welcome.html",
+    "title": "Sample Page",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n\n\n\n\n\n  \n\n\n\n\nColophon\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nCourse Outline\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSchedule\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nSyllabus\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\n  \n\n\n\n\nUseful Links\n\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "about/syllabus.html#introduction-to-user-interface-development",
+    "href": "about/syllabus.html#introduction-to-user-interface-development",
+    "title": "Syllabus",
+    "section": "2 Introduction to User Interface Development",
+    "text": "2 Introduction to User Interface Development"
+  },
+  {
+    "objectID": "about/syllabus.html#motivation-and-mindset",
+    "href": "about/syllabus.html#motivation-and-mindset",
+    "title": "Syllabus",
+    "section": "3 Motivation and Mindset",
+    "text": "3 Motivation and Mindset"
+  },
+  {
+    "objectID": "about/syllabus.html#asking-for-help",
+    "href": "about/syllabus.html#asking-for-help",
+    "title": "Syllabus",
+    "section": "4 Asking For Help",
+    "text": "4 Asking For Help"
+  },
+  {
+    "objectID": "about/course-links.html",
+    "href": "about/course-links.html",
+    "title": "Useful Links",
+    "section": "",
+    "text": "Text\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Assignments posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Tutorials posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "lectures/forms.dhtml#section",
+    "href": "lectures/forms.dhtml#section",
+    "title": "Forms",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/forms.dhtml#summary",
+    "href": "lectures/forms.dhtml#summary",
+    "title": "Forms",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/forms.html#summary",
+    "href": "lectures/forms.html#summary",
+    "title": "Forms",
     "section": "2 Summary",
     "text": "2 Summary"
+  },
+  {
+    "objectID": "lectures/typography.dhtml#oerview",
+    "href": "lectures/typography.dhtml#oerview",
+    "title": "Typography",
+    "section": "Oerview",
+    "text": "Oerview"
+  },
+  {
+    "objectID": "lectures/typography.dhtml#section",
+    "href": "lectures/typography.dhtml#section",
+    "title": "Typography",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/typography.dhtml#summary",
+    "href": "lectures/typography.dhtml#summary",
+    "title": "Typography",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/typography.html#section",
+    "href": "lectures/typography.html#section",
+    "title": "Typography",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/typography.html#summary",
+    "href": "lectures/typography.html#summary",
+    "title": "Typography",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
+    "objectID": "lectures/media.dhtml#overview",
+    "href": "lectures/media.dhtml#overview",
+    "title": "Images and Media",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/media.dhtml#images",
+    "href": "lectures/media.dhtml#images",
+    "title": "Images and Media",
+    "section": "Images",
+    "text": "Images\nFile types"
+  },
+  {
+    "objectID": "lectures/media.dhtml#optimization",
+    "href": "lectures/media.dhtml#optimization",
+    "title": "Images and Media",
+    "section": "Optimization",
+    "text": "Optimization"
+  },
+  {
+    "objectID": "lectures/media.dhtml#summary",
+    "href": "lectures/media.dhtml#summary",
+    "title": "Images and Media",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/media.html#images",
+    "href": "lectures/media.html#images",
+    "title": "Images and Media",
+    "section": "2 Images",
+    "text": "2 Images\n\n2.1 File types"
+  },
+  {
+    "objectID": "lectures/media.html#optimization",
+    "href": "lectures/media.html#optimization",
+    "title": "Images and Media",
+    "section": "3 Optimization",
+    "text": "3 Optimization"
+  },
+  {
+    "objectID": "lectures/media.html#summary",
+    "href": "lectures/media.html#summary",
+    "title": "Images and Media",
+    "section": "4 Summary",
+    "text": "4 Summary"
   },
   {
     "objectID": "lectures/responsive-design.dhtml#introduction-to-responsive-design",
@@ -770,6 +658,41 @@
     "text": "6 Summary"
   },
   {
+    "objectID": "lectures/grid.dhtml#overview",
+    "href": "lectures/grid.dhtml#overview",
+    "title": "CSS Grid",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/grid.dhtml#section",
+    "href": "lectures/grid.dhtml#section",
+    "title": "CSS Grid",
+    "section": "Section",
+    "text": "Section\nSub section"
+  },
+  {
+    "objectID": "lectures/grid.dhtml#summary",
+    "href": "lectures/grid.dhtml#summary",
+    "title": "CSS Grid",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/grid.html#section",
+    "href": "lectures/grid.html#section",
+    "title": "CSS Grid",
+    "section": "2 Section",
+    "text": "2 Section\n\n2.1 Sub section"
+  },
+  {
+    "objectID": "lectures/grid.html#summary",
+    "href": "lectures/grid.html#summary",
+    "title": "CSS Grid",
+    "section": "3 Summary",
+    "text": "3 Summary"
+  },
+  {
     "objectID": "lectures/dev-tools.dhtml#overview",
     "href": "lectures/dev-tools.dhtml#overview",
     "title": "Developer Tools",
@@ -819,52 +742,129 @@
     "text": "4 Summary\n\n4.1 Recommendations\n\nFirefox for browser\nkeep up to date with features you can/can’t use with caniuse.com\nPractise using the browser developer tools\nVS Code for IDE\nEmmets"
   },
   {
-    "objectID": "lectures/color.dhtml#oerview",
-    "href": "lectures/color.dhtml#oerview",
-    "title": "Color and Theme",
-    "section": "Oerview",
-    "text": "Oerview"
+    "objectID": "lectures/vs-code.dhtml#overview",
+    "href": "lectures/vs-code.dhtml#overview",
+    "title": "VSCode tips and tricks",
+    "section": "Overview",
+    "text": "Overview"
   },
   {
-    "objectID": "lectures/color.dhtml#section",
-    "href": "lectures/color.dhtml#section",
-    "title": "Color and Theme",
-    "section": "Section",
-    "text": "Section\nSub section"
+    "objectID": "lectures/vs-code.dhtml#plugins",
+    "href": "lectures/vs-code.dhtml#plugins",
+    "title": "VSCode tips and tricks",
+    "section": "Plugins",
+    "text": "Plugins\nLive server"
   },
   {
-    "objectID": "lectures/color.dhtml#summary",
-    "href": "lectures/color.dhtml#summary",
-    "title": "Color and Theme",
+    "objectID": "lectures/vs-code.dhtml#emmet",
+    "href": "lectures/vs-code.dhtml#emmet",
+    "title": "VSCode tips and tricks",
+    "section": "Emmet",
+    "text": "Emmet\nTechnique 1\nTechnique 2"
+  },
+  {
+    "objectID": "lectures/vs-code.dhtml#summary",
+    "href": "lectures/vs-code.dhtml#summary",
+    "title": "VSCode tips and tricks",
     "section": "Summary",
     "text": "Summary"
   },
   {
-    "objectID": "lectures/color.html#section",
-    "href": "lectures/color.html#section",
-    "title": "Color and Theme",
-    "section": "2 Section",
-    "text": "2 Section\n\n2.1 Sub section"
+    "objectID": "lectures/vs-code.html#plugins",
+    "href": "lectures/vs-code.html#plugins",
+    "title": "VSCode tips and tricks",
+    "section": "2 Plugins",
+    "text": "2 Plugins\n\n2.1 Live server"
   },
   {
-    "objectID": "lectures/color.html#summary",
-    "href": "lectures/color.html#summary",
-    "title": "Color and Theme",
-    "section": "3 Summary",
-    "text": "3 Summary"
+    "objectID": "lectures/vs-code.html#emmet",
+    "href": "lectures/vs-code.html#emmet",
+    "title": "VSCode tips and tricks",
+    "section": "3 Emmet",
+    "text": "3 Emmet\n\n3.1 Technique 1\n\n\n3.2 Technique 2"
   },
   {
-    "objectID": "reference/index.html",
-    "href": "reference/index.html",
-    "title": "Reference",
-    "section": "",
-    "text": "Reference posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "objectID": "lectures/vs-code.html#summary",
+    "href": "lectures/vs-code.html#summary",
+    "title": "VSCode tips and tricks",
+    "section": "4 Summary",
+    "text": "4 Summary"
   },
   {
-    "objectID": "tutorials/index.html",
-    "href": "tutorials/index.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Tutorials posted throughout the semester\n\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "objectID": "lectures/html-fundamentals.dhtml#overview",
+    "href": "lectures/html-fundamentals.dhtml#overview",
+    "title": "HTML Fundamentals",
+    "section": "Overview",
+    "text": "Overview"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#getting-started",
+    "href": "lectures/html-fundamentals.dhtml#getting-started",
+    "title": "HTML Fundamentals",
+    "section": "Getting started",
+    "text": "Getting started\nText\nLists\nLinks\nImages"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#fundamentals",
+    "href": "lectures/html-fundamentals.dhtml#fundamentals",
+    "title": "HTML Fundamentals",
+    "section": "Fundamentals",
+    "text": "Fundamentals\nElements and Tags\nHTML Boilerplate\nAttributes\nSyntax"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#element-types",
+    "href": "lectures/html-fundamentals.dhtml#element-types",
+    "title": "HTML Fundamentals",
+    "section": "Element types",
+    "text": "Element types\nBlock vs Inline\nContent vs Style"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#document-flow",
+    "href": "lectures/html-fundamentals.dhtml#document-flow",
+    "title": "HTML Fundamentals",
+    "section": "Document Flow",
+    "text": "Document Flow\nInline flow\nBlock flow"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.dhtml#summary",
+    "href": "lectures/html-fundamentals.dhtml#summary",
+    "title": "HTML Fundamentals",
+    "section": "Summary",
+    "text": "Summary"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#getting-started",
+    "href": "lectures/html-fundamentals.html#getting-started",
+    "title": "HTML Fundamentals",
+    "section": "2 Getting started",
+    "text": "2 Getting started\n\n2.1 Text\n\n\n2.2 Lists\n\n\n2.3 Links\n\n\n2.4 Images"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#fundamentals",
+    "href": "lectures/html-fundamentals.html#fundamentals",
+    "title": "HTML Fundamentals",
+    "section": "3 Fundamentals",
+    "text": "3 Fundamentals\n\n3.1 Elements and Tags\n\n\n3.2 HTML Boilerplate\n\n\n3.3 Attributes\n\n\n3.4 Syntax"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#element-types",
+    "href": "lectures/html-fundamentals.html#element-types",
+    "title": "HTML Fundamentals",
+    "section": "4 Element types",
+    "text": "4 Element types\n\n4.1 Block vs Inline\n\n\n4.2 Content vs Style"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#document-flow",
+    "href": "lectures/html-fundamentals.html#document-flow",
+    "title": "HTML Fundamentals",
+    "section": "5 Document Flow",
+    "text": "5 Document Flow\n\n5.1 Inline flow\n\n\n5.2 Block flow"
+  },
+  {
+    "objectID": "lectures/html-fundamentals.html#summary",
+    "href": "lectures/html-fundamentals.html#summary",
+    "title": "HTML Fundamentals",
+    "section": "6 Summary",
+    "text": "6 Summary"
   }
 ]
