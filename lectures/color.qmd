@@ -1,0 +1,22 @@
+---
+title: Color and Theme
+subtitle: Fundamentals of color theory for user interfaces in CSS
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: color-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Oerview
+
+## Section
+
+### Sub section
+
+## Summary

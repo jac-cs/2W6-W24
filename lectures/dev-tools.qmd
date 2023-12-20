@@ -1,0 +1,42 @@
+---
+title: Developer Tools
+subtitle: Applications for creating and troubleshooting web UI projects
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: dev-tools-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Overview
+
+## Browser
+
+### Choices
+
+### Feature support
+
+### Inspecting HTML in the Browser
+
+## IDE
+
+### VS Code
+
+### Codepen
+
+### Text editors
+
+## Summary
+
+### Recommendations
+
+- Firefox for browser
+- keep up to date with features you can/can't use with caniuse.com
+- Practise using the browser developer tools
+- VS Code for IDE
+- Emmets

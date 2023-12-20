@@ -1,7 +1,5 @@
 ---
-title: "Docs"
+title: "User Interfaces"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is is the landing page.

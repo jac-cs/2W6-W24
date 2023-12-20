@@ -1,0 +1,20 @@
+---
+title: Cascade
+subtitle: How CSS resolves selector conflicts
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: cascade-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Section
+
+### Sub section
+
+## Summary

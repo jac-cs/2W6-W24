@@ -1,0 +1,43 @@
+---
+title: CSS Fundamentals
+subtitle: Fundamentals of CSS
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: css-fundamentals-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+
+## Overview
+
+## Fundamentals
+
+### Selectors
+
+### Syntax
+
+### The Box Model
+
+### The Cascade
+
+## Loading CSS
+
+### Inline
+
+### Internal
+
+### External
+
+## Properties
+
+### Block and Inline
+
+
+
+## Summary

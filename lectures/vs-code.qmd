@@ -1,0 +1,28 @@
+---
+title: VSCode tips and tricks
+subtitle: Techniques for improving web development skills using VSCode
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: dev-tools-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Overview
+
+## Plugins
+
+### Live server
+
+## Emmet
+
+### Technique 1
+
+### Technique 2
+
+## Summary

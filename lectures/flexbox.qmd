@@ -1,0 +1,26 @@
+---
+title: Flexbox
+subtitle: Modern CSS for organizing groups of elements
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: flexbox-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Overview
+
+Introduction to Flexbox
+
+## Growing and Shrinking
+
+## Axes
+
+## Alignment
+
+## Summary

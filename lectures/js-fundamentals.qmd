@@ -1,0 +1,22 @@
+---
+title: Javascript Fundamentals
+subtitle: Fundamentals of Javascript
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: js-fundamentals-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Overview
+
+## Section
+
+### Sub section
+
+## Summary

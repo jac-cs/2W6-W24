@@ -1,9 +1,86 @@
 ---
-title: Useful links
+title: Schedule
 date: last-modified
-toc: true
+toc: false
 format: 
   html: default
 ---
 
-Text
+**Stay tuned:** Throughout the semester I will update this calendar with each week's resources. I will make corresponding updates on **LEA** so that you continue to get notifications through the regular college channels; however, these links will usually just take you to this page unless I indicate otherwise.
+
+**NOTE:** All hyperlinks have a defined `<title>` attribute. **Hover** over the links with your mouse to view more information about each :) 
+
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week             | Lectures                                                        | Activities/Assessments                                                    |
++==================+=================================================================+===========================================================================+
+| Week 1           | Tools - VS Code <br>                                            | **A1 (5%, due TBD):** [Creating a document in HTML][a1] <br>              |
+|                  | HTML - boilerplate HTML5, content elements <br>                 | Activity: [Writing HTML Boilerplate (.html)][actBoilerplate]  <br>        |
+|                  | HTML - fundamentals, syntax, elements <br>                      |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 2           | HTML - element attributes, document markup <br>                 | Tutorial: [Marking up a letter][tutDocument] <br>                         |
+|                  | HTML - normal flow, block vs inline elements <br>               | Activity: VS Code shortcuts, editting, Emmet <br>                         |
+|                  | Tools - VS Code skills for efficient web development <br>       | * [Part 1 (Youtube)][actVSCode1]                                          |
+|                  |                                                                 | * [Part 2 (Youtube)][actVSCode2]                                          |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 3           | HTML - semantic elements, website markup <br>                   | **A2 (10%, due TBD):** [Styling a document with CSS][a2] <br>             |
+|                  | Tools - browser dev tools for CSS/DOM inspection <br>           | Tutorial: [Website Structure][tutWebsite] <br>                            |
+|                  | CSS - inline vs internal vs external <br>                       | Activity: [CSS Diner][actDiner] <br>                                      |
+|                  | CSS - fundamentals, syntax, selectors <br>                      | Activity: How to use the Browser Dev Tools <br>                           |
+|                  |                                                                 | * [Part 1][actBrowser1]                                                   |
+|                  |                                                                 | * [Part 2][actBrowser2]                                                   |
++==================+=================================================================+===========================================================================+
+| Week 4           | CSS - element properties: fonts, images, icons <br>             | Tutorial: [CSS Foundations Exercises][tutCSSFoundations] <br>             |
+|                  | CSS - layouts: the box model                                    | Tutorial: [CSS Box Model Exercises][tutCSSBoxModel] <br>                  |
+|                  |                                                                 | Tutorial: Typesetting a Homepage [(files)][tutMdnTextFiles]  <br>         |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 5           | CSS - layouts: the box model, floats <br>                       |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 6           | CSS - Flexbox <br>                                              | **A3 (12.5%, due TBD)** [DYnamic behavior with Javascript][a3]            |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 7           | JavaScript - Manipulating the DOM, Dynamic styling              |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 8           | CSS - Finishing flexbox, test review, lab time                  |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 9           | CSS - CSS mechanics, the Cascade, specificity <br>              |                                                                           |
+|                  | **Test 1**                                                      |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 10          | CSS - Mastering 2D layouts with CSS Grid                        | **A4 (12.5%, due TBD)**: [Building a webstie][a4] <br>                    |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 11          | Intermediate CSS - June's Guest Lecture, Responsive Design      |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 12          | Intermediate CSS - HTML Forms                                   |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 13          | Intro to CMS (Content Management Systems)                       |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 14          | **Test 2** <br>                                                 |                                                                           |
+|                  | Intermediate CSS - Accessibility, Best Practises                |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+| Week 15          |                                                                 |                                                                           |
++------------------+-----------------------------------------------------------------+---------------------------------------------------------------------------+
+
+[a1]: ../pages/assignments.html#lab-1 "Lab 1: worth 5%, due Jan 27"
+[a2]: ../pages/assignments.html#lab-2 "Lab 2: worth 10%, due Feb 16"
+[a3]: ../pages/assignments.html#lab-3 "Lab 3: worth 12.5%, due Mar 17"
+[a4]: ../pages/assignments.html#lab-4 "Lab 4: worth 12.5%, due April 14"
+[pm1]: ../pages/assignments.html#milestone-1-2 "Project Milestone 1: worth 15%, due TBD"
+[pm2]: ../pages/assignments.html#milestone-1-2 "Project Milestone 2: worth 15%, due TBD"
+
+
+[tutDocument]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter "MDN: Marking up a Letter. Make sure you are familiar with all of the HTML elements covered in this tut."
+[tutWebsite]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure "MDN: Document and website structure. This is a very helpful tutorial for getting started on Lab2."
+[tutCSSFoundations]: ../pages/tutorials.html#week-04-exercises "Odin Project: CSS Foundations Exercises. There are 6 exercises total in this set. You should be able to complete them all with what you have learned during Week 3."
+[tutCSSBoxModel]: ../pages/tutorials.html#week-04-exercises "Odin Project: CSS Box Model Exercises. There are 2 exercises total in this set. You should be able to complete them all with what you have learned during Week 4."
+[tutMdnText]: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Typesetting_a_homepage "MDN: Typesetting a homepage tutorial instructions."
+[tutMdnTextFiles]: ../pages/tutorials.html#week04-styling-text-exercises "MDN: Typesetting a homepage tutorial starter files."
+
+[tutFlexbox]: ../pages/tutorials.html#week-06-exercises
+[tutFlexboxSolutions]: ../pages/tutorials.html#week-06-solutions
+[tutGrid]: ../pages/tutorials.html#week-10-exercises
+[tutGridSolutions]: ../pages/tutorials.html#week-10-solutions
+
+[actBoilerplate]: ../pages/tutorials.html#week-01-exercises "Completed Boilerplate HTML file, with all elements commented."
+[actVSCode1]: https://www.youtube.com/watch?v=V8vizNQKtx0 "Web Dev Simplified (YouTube): This video shows how to use 'Emmets' in VS Code to generate HTML tags and boilerplate automatically." 
+[actVSCode2]: https://www.youtube.com/watch?v=ifTF3ags0XI "Fireship (Youtube): This video contains a collection of generally helpful VS Code techniques for editting HTML files -- particularly for creating HTML tags from existing plaintext content using 'Wrap with Abbreviation'." 
+[actDiner]: https://flukeout.github.io "CSS Diner: Pracise selecting CSS elements with this interactive tut. You should be able to finish at least the first 16 exercises by the end of week 3; feel free to try the rest as well, reading the instructions on the right hand side for tips."
+[actBrowser1]: https://developer.chrome.com/docs/devtools/css/ "Chrome Devtools: How to select/modify/understand CSS using your browser (instructions are similar, but different, for other browsers.)"
+[actBrowser2]: https://developer.chrome.com/docs/devtools/css/ "Chrome Devtools: How to navigate the DOM using Google Chrome (instructions are similar, but different, for other browsers.)"

@@ -1,0 +1,34 @@
+---
+title: Accessible Design
+subtitle: How to make websites that work for everyone on all devices
+author: Michael Haaf
+date: last-modified
+toc: true
+format: 
+  html: default
+  pdf: default
+  docx: default
+  clean-revealjs: 
+    output-file: accessible-design-slides.html
+format-links: [html, pdf, clean-revealjs]
+---
+
+## Overview
+
+## Introduction to Web Accessibility
+
+## The Web Content Accessibility Guidelines (WCAG)
+
+## Semantic HTML
+
+## Accessible Colors
+
+## Keyboard Navigation
+
+## Meaningful Text
+
+## WAI-ARIA
+
+## Accessibility Auditing
+
+## Summary
